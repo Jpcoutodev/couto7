@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
 
             <div className="h-1 w-20 bg-gradient-to-r from-primary to-transparent"></div>
 
-            <div className="text-lg md:text-xl text-slate-300 max-w-xl leading-relaxed font-light font-mono h-24">
+            <div className="text-lg md:text-xl text-slate-300 max-w-xl leading-relaxed font-light font-mono h-32 md:h-24">
               <span className="text-primary">&gt; </span>
               <TypewriterText
                 text={t.hero.description}
@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex flex-wrap gap-5">
+          <div className="flex flex-wrap gap-5 mt-8 md:mt-0">
             <a
               href="https://wa.me/5519971453289"
               target="_blank"
