@@ -58,16 +58,7 @@ export const PROJECTS: Project[] = [
       { label: "Link", value: "https://home.strideup-fit.app/" }
     ]
   },
-  {
-    title: "Par Cristão",
-    category: "Social & Dating",
-    description: "Aplicativo de relacionamento focado em conectar pessoas com os mesmos propósitos e valores.",
-    image: "assets/par-cristao.png",
-    stats: [
-      { label: "Categoria", value: "Relacionamento" },
-      { label: "Link", value: "parcristao.app" }
-    ]
-  },
+
   {
     title: "Automações Corporativas",
     category: "Sistemas & n8n",
