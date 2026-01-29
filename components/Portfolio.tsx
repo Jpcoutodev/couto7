@@ -12,15 +12,7 @@ const projects = [
       { label: "Link", value: "https://home.strideup-fit.app/" }
     ]
   },
-  {
-    title: "Par Cristão",
-    category: "Social & Dating",
-    image: "assets/par-cristao.png",
-    stats: [
-      { label: "Categoria", value: "Relacionamento" },
-      { label: "Link", value: "parcristao.app" }
-    ]
-  },
+
   {
     title: "Automações Corporativas",
     category: "Sistemas & n8n",
@@ -35,17 +27,17 @@ const projects = [
 const descriptions = {
   pt: [
     "Plataforma completa de fitness e saúde. Um ecossistema digital para transformar vidas através do movimento.",
-    "Aplicativo de relacionamento focado em conectar pessoas com os mesmos propósitos e valores.",
+
     "Fluxos de automação complexos desenvolvidos para otimizar processos empresariais utilizando n8n e APIs diversas."
   ],
   en: [
     "Complete fitness and health platform. A digital ecosystem to transform lives through movement.",
-    "Dating app focused on connecting people with the same purposes and values.",
+
     "Complex automation flows developed to optimize business processes using n8n and various APIs."
   ],
   es: [
     "Plataforma completa de fitness y salud. Un ecosistema digital para transformar vidas a través del movimiento.",
-    "App de citas enfocada en conectar personas con los mismos propósitos y valores.",
+
     "Flujos de automatización complejos desarrollados para optimizar procesos empresariales usando n8n y diversas APIs."
   ]
 };
